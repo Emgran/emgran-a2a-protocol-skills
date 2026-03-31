@@ -1,0 +1,14 @@
+{
+  "name": "a2a-learnings",
+  "version": "0.1.0",
+  "description": "Record and retrieve lessons learned during development",
+  "author": "Emgran Team",
+  "license": "MIT",
+  "repository": "https://github.com/Emgran/emgran-a2a-protocol-skills",
+  "main": "index.js",
+  "capabilities": [
+    "knowledge.management",
+    "learning.record"
+  ],
+  "dependencies": {}
+}

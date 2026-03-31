@@ -1,4 +1,4 @@
-import { A2AParticipant, A2AConnection } from '../types';
+import type { A2AParticipant, A2AConnection, A2ADiscoveryResult } from '../types/index';
 
 /**
  * A2A Connection Service

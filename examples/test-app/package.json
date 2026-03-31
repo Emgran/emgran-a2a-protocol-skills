@@ -1,0 +1,14 @@
+{
+  "name": "a2a-test-app",
+  "version": "0.1.0",
+  "description": "Test app for A2A Protocol",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js",
+    "agent1": "node agent1.js",
+    "agent2": "node agent2.js"
+  },
+  "dependencies": {
+    "@emgran/a2a-protocol": "file:../../packages/typescript"
+  }
+}
