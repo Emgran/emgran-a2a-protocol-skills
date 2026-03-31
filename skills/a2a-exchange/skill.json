@@ -1,0 +1,16 @@
+{
+  "name": "a2a-exchange",
+  "version": "0.1.0",
+  "description": "Securely exchange data with another agent",
+  "author": "Emgran Team",
+  "license": "MIT",
+  "repository": "https://github.com/Emgran/emgran-a2a-protocol-skills",
+  "main": "index.js",
+  "capabilities": [
+    "data.exchange",
+    "secure.communication"
+  ],
+  "dependencies": {
+    "@emgran/a2a-protocol": "^0.1.0"
+  }
+}
