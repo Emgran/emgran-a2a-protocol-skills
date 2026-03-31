@@ -1,0 +1,30 @@
+{
+  "name": "@emgran/a2a-protocol",
+  "version": "0.1.0",
+  "description": "Emgran Agent-to-Agent Protocol for OpenClaw",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest",
+    "lint": "eslint src/",
+    "dev": "tsc --watch"
+  },
+  "keywords": [
+    "agent",
+    "a2a",
+    "protocol",
+    "openclaw",
+    "emgran"
+  ],
+  "author": "Emgran Team",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Emgran/emgran-a2a-protocol-skills.git"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "typescript": "^5.0.0"
+  }
+}

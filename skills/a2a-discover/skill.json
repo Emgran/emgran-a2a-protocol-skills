@@ -1,0 +1,15 @@
+{
+  "name": "a2a-discover",
+  "version": "0.1.0",
+  "description": "Discover other A2A-compatible agents",
+  "author": "Emgran Team",
+  "license": "MIT",
+  "repository": "https://github.com/Emgran/emgran-a2a-protocol-skills",
+  "main": "index.js",
+  "capabilities": [
+    "agent.discovery"
+  ],
+  "dependencies": {
+    "@emgran/a2a-protocol": "^0.1.0"
+  }
+}
